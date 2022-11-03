@@ -14,3 +14,6 @@ friends = ["erik", "niko", "josh", "mike","jone"]
 friends.each do |friend|
   puts "niko"
 end
+
+vacation = ["vietnam", "boston", "hawaii", "alaska", "japan"]
+vacation.push("colorado")
