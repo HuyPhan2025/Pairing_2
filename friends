@@ -1,0 +1,16 @@
+friends = [friends = ["erik", "niko", "weston", "harrison", "kaitlyn"]
+
+friends = ["erik", "niko", "josh", "mike","jone"]
+friends.each do |friend|
+  puts "Harrison"
+end
+
+friends = ["erik", "niko", "josh", "mike","jone"]
+friends.each do |friend|
+  puts "jone"
+end
+
+friends = ["erik", "niko", "josh", "mike","jone"]
+friends.each do |friend|
+  puts "niko"
+end
